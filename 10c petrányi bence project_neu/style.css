@@ -127,3 +127,7 @@ hr {
         font-size: 16pt;
     }
 }
+
+html {
+    scroll-behavior: smooth;
+}
